@@ -8,10 +8,10 @@ Eclipse Public License - v 2.0
 
 "Contribution" means:
 
-  a) in the case of the initial Contributor, the initial content
+  a) In the case of the initial Contributor, the initial content
      Distributed under this Agreement, and
 
-  b) in the case of each subsequent Contributor:
+  b) In the case of each subsequent Contributor:
      i) changes to the Program, and
      ii) additions to the Program;
   where such changes and/or additions to the Program originate from
@@ -271,7 +271,7 @@ https://www.gnu.org/software/classpath/license.html."
   is not sufficient to license the Source Code under Secondary Licenses.
 
   If it is not possible or desirable to put the notice in a particular
-  file, then You may include the notice in a location (such as a LICENSE
+  file then you may include the notice in a location (such as a LICENSE
   file in a relevant directory) where a recipient would be likely to
   look for such a notice.
 
